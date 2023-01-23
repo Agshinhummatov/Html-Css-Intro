@@ -1,0 +1,23 @@
+.login {
+   
+   padding-top: 50px;
+   padding-right: 30px;
+   padding-bottom: 50px;
+   padding-left: 80px;
+   width: 238px;
+   height: 232px;
+   margin: 500px 500px;
+   background-color: white;
+}
+
+
+
+body {
+
+   background-color: rgb(208, 247, 247);
+}
+
+.button{
+   border: 0px;
+   background-color: green;
+}
